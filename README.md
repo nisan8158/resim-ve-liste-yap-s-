@@ -1,3 +1,4 @@
+![Angels_and_demons](https://user-images.githubusercontent.com/123981188/219631929-507757d1-d267-4d40-a8f8-bf1ed7bf3dec.jpg)
 <h1>Nisan Bozkurt</h1>
     <!--adım-->    
     <h2>Hakkimda</h2>
@@ -29,6 +30,7 @@
 </ol>
 <h1>En sevdigim film</h1>
 <h2>Angels and demons</h2>
-<img src="images/Angels_and_demons.jpg" alt="resim">
+<img src="images/Angels_and_demons.jpg" alt=""> 
+![Angels_and_demons](https://user-images.githubusercontent.com/123981188/219631929-507757d1-d267-4d40-a8f8-bf1ed7bf3dec.jpg)
 <p>Teoloji uzmani Robert Langdon, tarihteki en guclu yeralti sebekesi olan Illuminati adli antik gizli kardeslik cemiyetinin tekrar canlandigin ogrenir. Fakat bu durum, onlarin varligindan en cok nefret eden kurum olan Katolik Klisesi'nin olum tehditi altinda oldugu gercegini de ortaya cikarir.</p>
 
