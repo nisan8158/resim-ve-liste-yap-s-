@@ -1,6 +1,7 @@
 <h1>Nisan Bozkurt</h1>
     <!--adım-->    
     <h2>Hakkimda</h2>
+
 </p>
 <p> 9. sinif ogrencisiyim. Tenis oynamaktan, kitap okumaktan, seyehatlere gitmekten hoslanirim.
 
@@ -20,7 +21,6 @@
         <li>Gravity Falls</li>
         <li><a href="https://www.imdb.com/title/tt2861424/" target="_blank" >Rick and Morty</a></li>
     </ul>
-        
     <li>Kitap</li>
     <ul><li>And then there were none</li>
         <li>Ask ve Gurur</li>
@@ -31,3 +31,4 @@
 <h2>Angels and demons</h2>
 <img src="images/Angels_and_demons.jpg" alt="">
 <p>Teoloji uzmani Robert Langdon, tarihteki en guclu yeralti sebekesi olan Illuminati adli antik gizli kardeslik cemiyetinin tekrar canlandigin ogrenir. Fakat bu durum, onlarin varligindan en cok nefret eden kurum olan Katolik Klisesi'nin olum tehditi altinda oldugu gercegini de ortaya cikarir.</p>
+
