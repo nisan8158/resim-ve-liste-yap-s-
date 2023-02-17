@@ -29,6 +29,6 @@
 </ol>
 <h1>En sevdigim film</h1>
 <h2>Angels and demons</h2>
-<img src="images/Angels_and_demons.jpg" alt="">
+<img src="images/Angels_and_demons.jpg" alt="resim">
 <p>Teoloji uzmani Robert Langdon, tarihteki en guclu yeralti sebekesi olan Illuminati adli antik gizli kardeslik cemiyetinin tekrar canlandigin ogrenir. Fakat bu durum, onlarin varligindan en cok nefret eden kurum olan Katolik Klisesi'nin olum tehditi altinda oldugu gercegini de ortaya cikarir.</p>
 
